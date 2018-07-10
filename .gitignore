@@ -1,4 +1,5 @@
-dea/
+target/
+.idea/
 BowlingApp.iml
 # Compiled source #
 ###################
@@ -36,4 +37,3 @@ BowlingApp.iml
 .Spotlight-V100
 .Trashes
 ehthumbs.db
-
