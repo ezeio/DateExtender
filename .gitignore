@@ -1,7 +1,7 @@
 target/
 .idea/
 BowlingApp.iml
-.iml
+*.iml
 # Compiled source #
 ###################
 *.com
